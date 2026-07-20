@@ -34,4 +34,4 @@ The full list, with fixes, lives in the app's Issues panels and in [docs/trouble
 - **docs/** is generated, never hand-edited: [full-walkthrough.md](docs/full-walkthrough.md) is the complete guide in one printable file, [troubleshooting-and-lessons.md](docs/troubleshooting-and-lessons.md) is the fixes summary.
 - **tools/** holds the Python scripts that build the docs from the app's data. After any data change: `python3 tools/generate_docs.py` and `python3 tools/generate_full_guide.py` (on Windows, `python` and backslashes).
 
-Want to build one of these for your own project? The companion app teaches it from zero: **[Build Your Own Walkthrough App](https://luigalve.github.io/build-your-own-walthrough/)**.
+Want to build one of these for your own project? The companion app teaches it from zero: **[Build Your Own Walkthrough App](https://luigalve.github.io/build-your-own-walkthrough/)**.

@@ -1,7 +1,3 @@
-# proxmox-old-pc
-Interactive walkthrough app: Install Proxmox on an old PC, one step at a time. 
-
-
 <!-- Repo README for Proxmox-old-pc.
      The GIF line stays commented out until you record it (ScreenToGif,
      about ten seconds of ticking through a step), then uncomment. -->
